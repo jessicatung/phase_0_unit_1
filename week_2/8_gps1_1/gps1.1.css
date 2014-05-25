@@ -1,1 +1,27 @@
 /* include your css here */
+    header {
+      background-color: black;
+      text-align: center;
+      color: white;
+    }
+    
+    section {
+      font-family: 'Lobster', cursive;
+      text-align: left;
+      float: right;
+      max-width: 70%;
+    }
+    
+    img {
+      max-width: 70%;
+    }
+    
+    nav {
+      float: left;
+      max-width: 30%;
+    }
+    
+    footer {
+      clear: both;
+      text-align: center;
+    }
