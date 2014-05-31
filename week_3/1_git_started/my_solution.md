@@ -39,7 +39,7 @@ Define the following commands and describe how they work/what they do.
 		git pull
 
 #### push
-	Like sending your repo. If your'e working on your local computer and want your commits to be visible on GitHub, you "push" these changes up to GitHub. 
+	Like sending your repo. If you're working on your local computer and want your commits to be visible on GitHub, you "push" these changes up to GitHub. 
 		git push <alias> <branch>
 
 #### reset
